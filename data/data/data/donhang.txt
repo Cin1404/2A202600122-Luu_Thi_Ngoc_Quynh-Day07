@@ -1,0 +1,327 @@
+## 2. DỊCH VỤ XANH SM BIKE BAO GỒM
+
+| Dịch vụ                    | Mô tả                                                |
+| -------------------------- | ---------------------------------------------------- |
+| Xanh SM Bike (chở khách)   | Đưa đón khách bằng xe máy điện                       |
+| Xanh Express Siêu tốc      | Giao hàng nhanh, tiêu chuẩn                          |
+| Xanh Express COD           | Giao hàng có thu hộ tiền mặt                         |
+| Xanh Express Tận tay (D2D) | Giao đến tận tay người nhận, phụ phí 10.000đ/đơn     |
+| Xanh Express Đa điểm       | Lấy 1 điểm, giao tối đa 10 điểm                      |
+| Xanh Express Cồng kềnh     | Hàng vượt kích thước tiêu chuẩn, phụ phí 15.000đ/đơn |
+| Xanh Express Doanh nghiệp  | Giao hàng cho đối tác doanh nghiệp (B2B)             |
+
+---
+
+## 3. QUY TRÌNH XỬ LÝ ĐƠN CHỞ KHÁCH (XANH SM BIKE)
+
+### Bước 1 – Nhận chuyến
+
+- Kiểm tra thông tin chuyến: điểm đón, điểm đến, tên & số điện thoại khách.
+- Xác nhận nhận chuyến trên ứng dụng Tài xế Xanh 2.0.
+
+### Bước 2 – Di chuyển đến điểm đón
+
+- Thông báo ETA cho khách nếu cần.
+- Đến đúng vị trí đón, không yêu cầu khách ra ngoài khu vực an toàn.
+
+### Bước 3 – Đón khách
+
+- Xác minh đúng khách (tên, loại xe).
+- KHÔNG thực hiện chuyến ngoài ứng dụng. Nếu khách yêu cầu → từ chối và giải thích.
+
+### Bước 4 – Thực hiện chuyến đi
+
+- Tuân thủ luật giao thông, không vi phạm tốc độ.
+- Tuyệt đối không sử dụng điện thoại khi lái xe.
+
+### Bước 5 – Hoàn thành chuyến
+
+- Xác nhận "Hoàn thành" trên ứng dụng.
+- Thanh toán theo phương thức đã chọn (tiền mặt / thẻ / ví).
+- Kiểm tra để không để quên đồ của khách.
+
+### Xử lý hủy chuyến
+
+- Khách hủy sau khi tài xế đã xác nhận: hệ thống tự xử lý.
+- Tài xế cần hủy: liên hệ Tổng đài để không ảnh hưởng tỷ lệ hủy.
+- Sau khi đã bấm "Đã đến nơi" → KHÔNG thể tự hủy, phải gọi Tổng đài.
+
+---
+
+## 4. QUY TRÌNH XỬ LÝ ĐƠN GIAO HÀNG (XANH EXPRESS)
+
+### 4A. GIAO HÀNG SIÊU TỐC (TIÊU CHUẨN)
+
+**Bước 1 – Nhận đơn**
+
+- Kiểm tra thông tin: điểm lấy hàng, điểm giao, hình thức thanh toán (tiền mặt / thẻ).
+- Xác nhận nhận đơn trên ứng dụng.
+
+**Bước 2 – Đến lấy hàng (KGH = Khách Gửi Hàng)**
+
+- Liên hệ KGH xác nhận thông tin đơn nếu cần.
+- Kiểm tra ngoại quan hàng hóa (tình trạng đóng gói, niêm phong).
+- Kiểm tra kích thước & trọng lượng trong giới hạn: tối đa 50x40x50cm – 30kg.
+- Chụp ảnh hàng hóa đúng quy cách (rõ nét, thấy toàn bộ gói hàng & biên lai nếu có).
+- Xác nhận "Đã lấy hàng" trên ứng dụng.
+- Nếu KGH thanh toán tiền mặt → thu cước phí trước khi giao.
+
+**Bước 3 – Giao hàng (KNH = Khách Nhận Hàng)**
+
+- Liên hệ KNH thông báo thời gian giao dự kiến.
+- Giao hàng bằng 2 tay (nếu gặp trực tiếp).
+- Chụp ảnh xác nhận giao hàng thành công.
+- Xác nhận "Giao hàng thành công" trên ứng dụng.
+
+**Bước 4 – Hoàn thành đơn**
+
+- Kiểm tra đánh giá, phản hồi từ khách (nếu có).
+
+---
+
+### 4B. GIAO HÀNG COD (THU HỘ TIỀN MẶT)
+
+Điều kiện: Chỉ áp dụng cho KGH đã được Xanh SM xác minh. Hạn mức ứng COD tối đa: 1.000.000 VNĐ/đơn.
+
+Cài đặt hạn mức: Dịch vụ → Thiết lập tài khoản → Cài đặt số tiền mang theo.
+
+| Trường hợp              | Quy trình                                    |
+| ----------------------- | -------------------------------------------- |
+| KGH thanh toán tiền mặt | Thu cước phí từ KGH trước khi giao hàng      |
+| KNH thanh toán tiền mặt | Tài xế ứng tiền COD → giao hàng → thu từ KNH |
+| Thanh toán qua thẻ/ví   | Hệ thống tự động xử lý, không thu tiền mặt   |
+
+Lưu ý quan trọng:
+
+- Tiền ứng COD là tiền mặt của tài xế, KHÔNG phải số dư ví ứng dụng.
+- Tuyệt đối KHÔNG ứng tiền cho KGH.
+- Hệ thống tự trừ tiền COD trong ví khi bấm "Giao hàng thành công".
+
+---
+
+### 4C. GIAO HÀNG TẬN TAY (D2D)
+
+Phụ phí: 10.000 VNĐ/đơn (đã tính vào tổng phí hiển thị trên ứng dụng).
+
+Nhận biết đơn D2D: Xem icon "Giao hàng tận tay" tại màn hình nhận chuyến.
+
+Yêu cầu thực hiện:
+
+- Trao tận tay người nhận: đi lên tầng chung cư, vào phòng làm việc, trường học...
+- Nếu KH không ghi rõ số tầng/phòng → liên hệ KNH để xác thực trước khi lên.
+- Quy trình nhận hàng thực hiện như đơn thông thường.
+
+---
+
+### 4D. GIAO HÀNG ĐA ĐIỂM
+
+Giới hạn: Tối đa 10 điểm giao/chuyến. Hạn mức COD đa điểm tối đa: 500.000 VNĐ/chuyến.
+
+Quy trình:
+
+- Thu cước phí từ KGH (nếu tiền mặt) trước khi giao.
+- Kiểm tra đủ số lượng gói hàng tương ứng số điểm giao.
+- Đánh số thứ tự từng gói (gói giao trước để ở ngoài cùng, dễ lấy).
+- Hỏi rõ KGH gói nào giao điểm nào trước khi xuất phát.
+- Chụp ảnh xác nhận tại mỗi điểm giao.
+
+Tính điểm thưởng đa điểm:
+
+- Điểm thưởng = điểm/điểm giao × số điểm giao hoàn thành.
+- Khung giờ tính điểm = thời điểm tài xế nhận đơn.
+
+Dịch vụ Chuyển hoàn (Quay về điểm lấy hàng):
+
+- Sau khi giao hết các điểm, tài xế quay lại điểm lấy hàng ban đầu.
+- Cước phí chiều về tính theo km + phụ phí 5.000 VNĐ/điểm giao.
+- Trao đổi kỹ với KGH về việc nhận/không nhận hàng hóa quay đầu.
+- Chụp ảnh hàng hóa mang về điểm KGH.
+
+---
+
+### 4E. GIAO HÀNG CỒNG KỀNH
+
+| Thông số                    | Giới hạn              |
+| --------------------------- | --------------------- |
+| Kích thước tiêu chuẩn       | 50Dx40Rx50C cm – 30kg |
+| Kích thước tối đa cồng kềnh | 60Dx70Rx60C cm – 50kg |
+| Phụ phí                     | 15.000 VNĐ/đơn        |
+
+Lưu ý:
+
+- Phụ phí đã được cộng vào đơn hàng – TUYỆT ĐỐI KHÔNG thu thêm tiền.
+- Chuẩn bị dây buộc, băng dính để đảm bảo an toàn hàng hóa.
+- Có thể bật/tắt dịch vụ linh hoạt theo nhu cầu vận doanh.
+- Nếu hàng vượt kích thước tối đa hoặc nguy cơ vi phạm luật giao thông → quyền từ chối và gọi Tổng đài để hủy đơn không ảnh hưởng tỷ lệ hủy.
+
+---
+
+### 4F. GIAO HÀNG DOANH NGHIỆP (B2B)
+
+Điểm khác biệt so với đơn thông thường:
+
+- KHÔNG cần liên hệ người gửi trước khi đến lấy hàng.
+- Cung cấp MÃ NHẬN HÀNG cho nhân viên cửa hàng/quầy thu ngân để lấy hàng.
+- Chỉ kiểm tra ngoại quan (không mở kiểm tra bên trong).
+- Nếu ngoại quan móp méo/không nguyên vẹn → có quyền từ chối và gọi Tổng đài hỗ trợ hủy chuyến.
+- Sau khi bấm "Đã đến nơi" → KHÔNG tự hủy được, phải gọi Tổng đài.
+
+Quy trình hoàn hàng doanh nghiệp:
+
+- Liên hệ KNH: tối thiểu 3 cuộc gọi trong 15 phút nếu không liên lạc được.
+- Nếu KNH không liên lạc được → hoàn hàng ngay, ưu tiên tối đa trong 2 giờ. KHÔNG cần gọi xác nhận KGH, KHÔNG thu thêm phí.
+- Nếu hoàn hàng cho KGH thất bại → hoàn về văn phòng trong 24 giờ kể từ thao tác "Giao hàng thất bại".
+- Đơn hoàn thất bại sau 17h00 thứ 7 → hoàn về văn phòng trước 12h00 thứ 2 tuần kế tiếp.
+- Điền đầy đủ form Đăng ký bồi hoàn đơn thất bại để được hỗ trợ cước phí hoàn hàng.
+
+---
+
+## 5. XỬ LÝ ĐƠN GIAO KHÔNG THÀNH CÔNG
+
+### Khi nào giao thất bại?
+
+- KNH không có mặt / không liên lạc được.
+- KNH từ chối nhận hàng.
+- Địa chỉ giao không tìm được.
+
+### Quy trình xử lý trên ứng dụng:
+
+1. Vào "Chi tiết chuyến đi" → tại điểm giao hàng → bấm "Thất bại".
+2. Chọn lý do thất bại.
+3. Xác nhận bằng hình ảnh (ảnh đã đến điểm giao, chứng minh liên hệ không được, KNH từ chối...).
+4. Liên hệ ngay KGH thông báo tình trạng đơn và thống nhất phương án hoàn hàng.
+
+### Quy định liên hệ KNH trước khi xác nhận thất bại:
+
+- Tối thiểu 3 cuộc gọi trong 15 phút.
+- Sau đó mới được thao tác "Giao thất bại" và tiến hành hoàn hàng.
+
+### Cước phí hoàn hàng:
+
+- Cước phí hoàn = cước phí chiều đi (chưa trừ khuyến mại).
+
+### Hoàn hàng cho KGH:
+
+- Hoàn trong vòng 24 giờ kể từ thời điểm giao thất bại.
+- Nếu KGH không nhận lại hàng → hoàn về HUB và làm thủ tục bồi hoàn theo quy định.
+
+### Hoàn hàng thất bại cho KGH (không thống nhất được / không liên lạc được):
+
+1. Kiểm tra thông tin tại mục "Điểm trả hàng".
+2. Bấm "Thất bại" → chọn lý do → bấm "Xác nhận".
+3. Hoàn hàng về HUB trong vòng 24 giờ.
+
+---
+
+## 6. QUY ĐỊNH CHỤP ẢNH XÁC THỰC
+
+Bắt buộc chụp ảnh tại các thời điểm:
+
+- Khi xác nhận lấy hàng từ KGH.
+- Khi xác nhận giao hàng thành công cho KNH.
+- Khi giao hàng thất bại.
+- Khi hoàn hàng thành công cho KGH (hoặc giao lại cho KNH).
+
+Tiêu chuẩn ảnh:
+
+- Rõ nét, thấy toàn bộ hàng hóa & biên lai/hóa đơn (nếu có).
+- Chụp nhiều góc để thấy tình trạng niêm phong.
+- Hàng dễ vỡ (bánh, hoa, thực phẩm): chụp cả ngoại quan và bên trong nếu có thể.
+- KHÔNG dùng ảnh mờ, nhòe, không rõ nét.
+- TUYỆT ĐỐI KHÔNG dùng ảnh của đơn hàng khác.
+
+Vi phạm chụp ảnh sai tiêu chuẩn (theo Quy tắc ứng xử từ 28/9/2024):
+
+- Lỗi Nhóm 3: Trừ 100.000 VNĐ/lần vi phạm (tối đa 3 lần) + không nhận thưởng tuần.
+
+---
+
+## 7. DANH MỤC HÀNG HÓA CẤM VẬN CHUYỂN
+
+Nếu phát hiện hàng cấm: có quyền từ chối nhận/giao và hủy đơn theo chỉ dẫn trên ứng dụng.
+
+Hàng CẤM bao gồm:
+
+- Ma túy, chất kích thích.
+- Kim loại quý (vàng, bạc dạng thỏi/tiền xu).
+- Hàng nguy hiểm, vũ khí, đạn dược.
+- Thuốc lá.
+- Hàng dễ hỏng do nhiệt/độ ẩm (trừ hoa và thực phẩm).
+- Ấn phẩm phản động, tài liệu chống an ninh.
+- Vật dễ cháy nổ, gây ô nhiễm môi trường.
+- Hàng cấm lưu hành theo pháp luật.
+- Động vật sống, lông thú.
+- Tiền tệ, ngoại tệ, chứng từ có giá trị tương đương tiền.
+- Đồ cổ dễ vỡ, chất gây nghiện.
+- Hàng có giá trị trên 2.000.000 VNĐ (hàng hóa có giá trị cao).
+
+Nếu KGH không cho kiểm tra và có dấu hiệu bất thường → từ chối và liên hệ Tổng đài: 0247 1096839.
+
+---
+
+## 8. HÀNG KHÔNG ÁP DỤNG ỨNG COD / KHÔNG HỖ TRỢ BỒI HOÀN
+
+- Hàng điện, cơ điện, điện tử.
+- Quần áo, mỹ phẩm, hàng tiêu dùng đã qua sử dụng.
+- Thẻ ngân hàng, SIM điện thoại, băng đĩa, giấy tờ, hồ sơ.
+- Thuốc, bột, dung dịch không nhãn mác, không rõ nguồn gốc.
+
+Xử lý: Liên hệ Tổng đài để hủy đơn, KHÔNG tính vào tỷ lệ hủy.
+
+---
+
+## 9. BẢNG GIÁ CƯỚC THAM KHẢO (XANH EXPRESS)
+
+| Hạng mục                        | Chi tiết                             |
+| ------------------------------- | ------------------------------------ |
+| Cước cơ bản                     | 14.000đ/2km đầu, 5.000đ/km tiếp theo |
+| Phụ phí ban đêm (22h00 – 05h59) | +10.000 VNĐ/chuyến                   |
+| Phụ phí ngày lễ                 | +5.000 VNĐ/chuyến                    |
+| Phụ phí Giao tận tay (D2D)      | +10.000 VNĐ/đơn                      |
+| Phụ phí Hàng cồng kềnh          | +15.000 VNĐ/đơn                      |
+| Phụ phí đa điểm                 | +5.000 VNĐ/điểm giao                 |
+
+---
+
+## 10. QUY TRÌNH BỒI HOÀN ĐƠN THẤT BẠI
+
+Áp dụng khi: bom hàng, lừa đảo, mất hàng, giao thất bại có lỗi từ hệ thống.
+
+Bước thực hiện:
+
+1. Thực hiện đúng quy trình giao hàng thất bại và chụp ảnh đầy đủ.
+2. Điền form Đăng ký bồi hoàn đơn thất bại.
+3. Liên hệ Tổng đài: 0247 1096839 nếu có vấn đề phát sinh.
+
+Lưu ý: Đơn giao/nhận thất bại do lỗi của KH → KHÔNG tính vào tỷ lệ giao thất bại của tài xế, không ảnh hưởng điểm thưởng.
+
+---
+
+## 11. CÁC TÌNH HUỐNG ĐẶC BIỆT & CÁCH XỬ LÝ
+
+| Tình huống                                           | Cách xử lý                                                                           |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| KH yêu cầu chạy ngoài app                            | Từ chối, giải thích và liên hệ Tổng đài nếu cần                                      |
+| Nghi ngờ hàng hóa bất thường                         | Từ chối nhận, hủy đơn, liên hệ Tổng đài                                              |
+| Không liên lạc được KNH (3 cuộc / 15 phút)           | Thao tác thất bại, liên hệ KGH, hoàn trong 24h                                       |
+| Hàng quá kích thước tiêu chuẩn, không chọn cồng kềnh | Có quyền từ chối, gọi Tổng đài hỗ trợ hủy                                            |
+| Tai nạn giao thông                                   | Đảm bảo an toàn → Ghi lại thông tin → Báo cảnh sát → Liên hệ bảo hiểm → Gọi Tổng đài |
+| Bị bom hàng / lừa đảo                                | Thực hiện quy trình bồi hoàn, gọi Tổng đài 0247 1096839                              |
+
+---
+
+## 12. THÔNG TIN HỖ TRỢ
+
+- Tổng đài Xanh SM Bike: 0247 1096839
+- Hotline chung: 1900 2088
+- Kênh hỗ trợ khác: Đội trưởng khu vực, ứng dụng Tài xế Xanh 2.0
+
+---
+
+## 13. PHONG CÁCH TRẢ LỜI
+
+- Xưng hô: "Bác Tài" hoặc "Đối tác" khi trả lời tài xế.
+- Ngôn ngữ: Tiếng Việt, rõ ràng, thân thiện, chuyên nghiệp.
+- Cấu trúc: Ưu tiên liệt kê từng bước khi hướng dẫn quy trình.
+- Không suy đoán chính sách ngoài thông tin đã cung cấp.
+- Luôn kết thúc bằng lời động viên ngắn nếu phù hợp: "Chúc Bác Tài giao hàng thuận lợi!"
